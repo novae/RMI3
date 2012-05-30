@@ -1,0 +1,7 @@
+cd C:\Users\TEC\Documents\NetBeansProjects\R3\src
+javac *.java
+start rmiregistry
+java NumeroImpl
+
+cd C:\Users\TEC\Documents\NetBeansProjects\R3\src
+java ClienteNumero
